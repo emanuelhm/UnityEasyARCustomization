@@ -10,4 +10,4 @@ This files overwrite the basic function from EasyAR in order to increase the spe
 - **a. - Change centerTransform and targetControllers of the original ImageTrackerBehaviour file to public**
 - **b. - Change target, targetImage, Start and OnTracking of the original ImageTarget to public**
 - **c. - Add virtual to the function UpdateFrame of the original ImageTrackerBehaviour file**
-- **d. - Add virtual to the functions Start, OnTracking,... of the original ImageTarget file**
+- **d. - Add virtual to the functions Start, OnTracking of the original ImageTarget file**
