@@ -4,9 +4,9 @@ This files overwrite the basic function from EasyAR in order to increase the spe
 
 ### Instalation
 
-- **1° - Copy the folder to your project**
-- **2° - Some errors should show in the console, in order to solve then do the following:**
--- **a. - Change ...,...,... of the file ImageTrackerBehaviour to public**
--- **b. - Change ...,...,... of the file ImageTargetto public**
--- **c. - Add virtual to the functions ...,...,... of the file ImageTrackerBehaviour**
--- **d. - Add virtual to the functions ...,...,... of the file ImageTarget**
+**1° - Copy the folder to your project**
+**2° - Some errors should show in the console, in order to solve then do the following:**
+- **a. - Change ...,...,... of the file ImageTrackerBehaviour to public**
+- **b. - Change ...,...,... of the file ImageTargetto public**
+- **c. - Add virtual to the functions ...,...,... of the file ImageTrackerBehaviour**
+- **d. - Add virtual to the functions ...,...,... of the file ImageTarget**
