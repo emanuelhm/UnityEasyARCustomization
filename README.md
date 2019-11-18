@@ -4,10 +4,10 @@ This files overwrite the basic function from EasyAR in order to increase the spe
 
 ### Instalation
 
-**1° - Copy the folder to your project**
+**1° - Copy the UnityEasyARCustomization folder to your Assets folder in your project**
 
 **2° - Some errors should show in the console, in order to solve then do the following:**
-- **a. - Change ...,...,... of the file ImageTrackerBehaviour to public**
-- **b. - Change ...,...,... of the file ImageTargetto public**
-- **c. - Add virtual to the functions ...,...,... of the file ImageTrackerBehaviour**
-- **d. - Add virtual to the functions ...,...,... of the file ImageTarget**
+- **a. - Change centerTransform and targetControllers of the original ImageTrackerBehaviour file to public**
+- **b. - Change target, targetImage, Start and OnTracking of the original ImageTarget to public**
+- **c. - Add virtual to the function UpdateFrame of the original ImageTrackerBehaviour file**
+- **d. - Add virtual to the functions Start, OnTracking,... of the original ImageTarget file**
