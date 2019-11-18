@@ -11,3 +11,7 @@ This files overwrite the basic function from EasyAR in order to increase the spe
 - **b. - Change target, targetImage, Start and OnTracking of the original ImageTarget to public**
 - **c. - Add virtual to the function UpdateFrame of the original ImageTrackerBehaviour file**
 - **d. - Add virtual to the functions Start, OnTracking of the original ImageTarget file**
+
+### Note
+
+I'm just a begginer, I would love to learn more from any issue or pull request you make, specially in this README file
